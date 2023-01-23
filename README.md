@@ -1,12 +1,7 @@
 ## Boat Sales Analysis
  ## Objective and Purpose
 To build an interactive dashboard that will visually showcase well-curated results of an advanced exploratory analysis conducted in Python. 
-This dataset represents the sales information of used boats listed on a website. The website allows users to advertise their used boat for sales. This allows prospective buyers to have a ﬁrst impression about the boat, its manufacturing details, present conditions as well as listing price. The marketing has requested for the sales analysis in preparation of a weekly newsletter. Essentially, this analysis would help sellers by giving them insights on how they could get more engagement for listed
-boats, as well as stay on top of the market trends.  
-
-## Context  
-For this Achievement the goal of conducting an exploratory visual analysis in Python and finding connections between variables that seem worth exploring. After developing hypotheses, use various advanced analytical approaches to help test hypotheses.  
-The results analyses will be presented in a Tableau dashboard/storyboard. Dashboard will tell the story of analytical journey and, as such, needs to contain a curation of the key results was discovered throughout this Achievement.  
+This dataset represents the sales information of used boats listed on a website. The website allows users to advertise their used boat for sales. This allows prospective buyers to have a ﬁrst impression about the boat, its manufacturing details, present conditions as well as listing price. The marketing has requested for the sales analysis in preparation of a weekly newsletter. Essentially, this analysis would help sellers by giving them insights on how they could get more engagement for listed boats, as well as stay on top of the market trends.  
 
 ## Data Sources  
 The data for this project is an open source data downloaded from https://www.kaggle.com/datasets/karthikbhandary2/boat-sales  
