@@ -52,14 +52,8 @@ The data for this project is an open source data downloaded from https://www.kag
 - Create a variety of different visualizations using clustered data.  
 - Calculate the descriptive statistics for your clusters using the groupby() function and discuss findings and any proposed next steps. 
 
-## Exercise 6.6: Sourcing & Analyzing Time Series Data  
-- Source time-series data relevant to project data via an API.  
-- Subset data if necessary so that it contains only relevant historical data.  
-- Visualize the data in a line plot and decompose its structure.  
-- Conduct a Dickey-Fuller test and plot autocorrelations to test for stationarity.  
-- Perform differencing to stationarize non-stationary data. 
 
-## Exercise 6.7: Creating Data Dashboards  
+## Exercise 6.6: Creating Data Dashboards in [Tableau]([GitHub Pages](https://pages.github.com/).  
 - Define the use-case for the dashboard.  
 - Outline dashboard contents based on curated results of analysis.  
 - Create dashboard/storyboard in Tableau per the requirements in the project brief.  
